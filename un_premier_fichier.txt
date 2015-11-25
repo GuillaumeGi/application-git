@@ -1,1 +1,2 @@
 J'ai créé ce premier fichier depuis ma machine locale, après avoir importé le projet initial depuis git.
+Je rajoute maintenant du contenu dans ce fichier.
